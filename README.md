@@ -1,3 +1,4 @@
+![Bitcoin Cover](bitcoin_cover.png)
 # 📊 Bitcoin Price Analysis
 
 This project analyzes the historical price and volume of Bitcoin over the last 12 months using Python and Jupyter Notebook.
