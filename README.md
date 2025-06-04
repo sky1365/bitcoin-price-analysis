@@ -4,7 +4,7 @@ This project analyzes the historical price and volume of Bitcoin over the last 1
 
 ## 📁 Files Included
 - `Bitcoin_Price_Analysis.ipynb`: Jupyter Notebook with full analysis
-- `Bitcoin Historical Data.csv`: Original Bitcoin price and volume data (from Yahoo Finance)
+- `Bitcoin Historical Data(1).csv`: Original Bitcoin price and volume data (from Yahoo Finance)
 
 ## 🧪 Technologies Used
 - Python
